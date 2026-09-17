@@ -1,9 +1,7 @@
-# Mateo Álvarez Murillo
-
-Estudiante de Ingeniería de Sistemas e Informática en la Universidad Nacional de Colombia. Programador competitivo y backend developer en formación.
-
 <div align="center">
-
+  
+  # Mateo Álvarez Murillo
+  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maalvarezmu@unal.edu.co)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-alvarez-murillo/)
 [![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Drifter24)
@@ -11,6 +9,7 @@ Estudiante de Ingeniería de Sistemas e Informática en la Universidad Nacional 
 
 </div>
 
+Estudiante de Ingeniería de Sistemas e Informática en la Universidad Nacional de Colombia. Programador competitivo y backend developer en formación.
 
 ## Trayectoria
 
