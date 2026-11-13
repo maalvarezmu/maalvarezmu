@@ -13,11 +13,10 @@ Estudiante de Ingeniería de Sistemas e Informática en la Universidad Nacional 
 
 ## Trayectoria
 
-- Campeón regional ICPC - South America North 2025 (equipo UNTreeCiclo)
+- Bicampeón regional ICPC - South America North 2025 y 2026, y subcampeón nacional en la Maratón Nacional de Programación 2026 (equipo UNTreeCiclo)
 - Codeforces Expert, rating 1853 (1.900+ problemas resueltos). AtCoder 2 Kyu, rating 1660 (Top 3.16%).
 - Instructor y entrenador en UN Algoritmo - he entrenado a 13 equipos ICPC (39 competidores) en 2 años
 - Monitor de Análisis y Diseño de Algoritmos (UNAL) - más de 190 estudiantes en 3 cohortes
-
 
 ## Stack
 
@@ -40,7 +39,6 @@ Estudiante de Ingeniería de Sistemas e Informática en la Universidad Nacional 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
 
 ## Proyectos
 
