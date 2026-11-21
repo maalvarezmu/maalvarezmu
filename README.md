@@ -3,9 +3,10 @@
   # Mateo Álvarez Murillo
   
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maalvarezmu@unal.edu.co)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-alvarez-murillo/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDE0bS0uNSAxNS41di01LjNhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS44NC41Mi0yLjI4IDEuM3YtMS4xMUgxM3Y2LjM3aDIuNzR2LTMuNzVjMC0uOTkuMTktMS45NiAxLjQyLTEuOTZjMS4yMSAwIDEuMjMgMS4xMyAxLjIzIDIuMDJ2My42OUgxOC41TTYuODggOC41NmExLjY4IDEuNjggMCAwIDAgMS42OC0xLjY4Yy4wMS0uOTMtLjc1LTEuNjktMS42OC0xLjY5YS4xLjEgMCAwIDAtLjAxIDBhMS42OCAxLjY4IDAgMCAwLTEuNjcgMS42OWMwIC45My43NSAxLjY4IDEuNjggMS42OE04LjI3IDE4LjVWMTIuMTNINXY2LjM3aDMuMjd6Ii8+PC9zdmc+)](https://www.linkedin.com/in/mateo-alvarez-murillo/)
 [![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Drifter24)
-[![AtCoder](https://img.shields.io/badge/-AtCoder-222222?style=flat-square&logo=atcoder&logoColor=white)](https://atcoder.jp/users/Drifter24)
+[![AtCoder](https://img.shields.io/badge/-AtCoder-222222?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgMjJoNC4ybDIuMS00LjZoNy40TDE3LjggMjJIMjJMMTIgMnptMCA2LjVsMi41IDUuNWgtNUwxMiA4LjV6Ii8+PC9zdmc+)](https://atcoder.jp/users/Drifter24)
+[![Monkeytype](https://img.shields.io/badge/-Monkeytype-E2B714?style=flat-square&logo=monkeytype&logoColor=black)](https://monkeytype.com/profile/Drifter24)
 
 </div>
 
