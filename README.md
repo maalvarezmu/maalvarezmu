@@ -48,6 +48,7 @@ Estudiante de Ingeniería de Sistemas e Informática en la Universidad Nacional 
 
 ## Proyectos
 
+- **[nexacloud-alb-layer](https://github.com/maalvarezmu/nexacloud-alb-layer)** — Capa de balanceo de carga en AWS para la migración de una intranet: Application Load Balancer público con reparto ponderado entre dos instancias EC2 y una función Lambda que sirve una página de error estática desde un bucket S3 privado, con security groups encadenados. AWS (ALB, EC2, Lambda, S3), Python, Bash.
 - **[ecommerce-php-mysql](https://github.com/maalvarezmu/ecommerce-php-mysql)** — Plataforma de e-commerce full-stack con autenticación segura (contraseñas encriptadas, protección contra inyección SQL), carrito de compras, flujo de checkout y panel de administración. PHP, MySQL, Tailwind CSS.
 - **[chivas-ticket-booking-system](https://github.com/maalvarezmu/chivas-ticket-booking-system)** — Sistema de reservas para viajes intermunicipales en chivas: control de acceso por roles (administrador/usuario), gestión de flota e itinerarios, compra y cancelación de tiquetes con reembolsos. Node.js, EJS, MySQL.
 - **[wordle-trie](https://github.com/maalvarezmu/wordle-trie)** — Clon de Wordle con motor de validación de palabras construido sobre un Trie propio, sin librerías externas. JavaScript, Vite.
